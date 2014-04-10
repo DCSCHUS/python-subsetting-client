@@ -1,0 +1,12 @@
+{
+"dataset":"ds131.1",
+"date":"197506150000/to/197506301200",
+"param":"TMP",
+"level":"HGTL",
+"levelvalue":"2",
+"oformat":"netCDF",
+"nlat":"62",
+"slat":"-40",
+"wlon":"-171",
+"elon":"-32"
+}
