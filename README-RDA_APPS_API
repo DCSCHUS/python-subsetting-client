@@ -1,4 +1,4 @@
-RDA APPS API function list d:
+RDA APPS API function list:
 
 Returns a summary of  datasets and dataset groups that have subsetting available:
 curl -u [RDAusername]:[RDApassword] -X GET https://rda.ucar.edu/apps/summary
